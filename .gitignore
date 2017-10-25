@@ -1,0 +1,16 @@
+.ssh/
+
+# Terraform
+
+.terraform/
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+
+# vscode
+
+.vscode/
+
+# jupyter notebook
+
+.ipynb_checkpoints/
